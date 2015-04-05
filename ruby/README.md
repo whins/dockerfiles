@@ -10,3 +10,5 @@ Run image:
 Default location for gems:
 
     ./vendor/bundle
+
+Image included: nodejs, gsl and libs for build nokogiri
