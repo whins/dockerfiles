@@ -9,8 +9,6 @@ RUN curl -sL https://deb.nodesource.com/setup | bash - \
     autoconf \
     build-essential \
     zlib1g-dev \
-    curl \
-    wget \
 # Install ruby
     ruby \
     ruby-dev \
