@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Denis Evsyukov <denis@evsyukov.org>
+MAINTAINER whins <whinsler@gmail.com>
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get install -y curl
